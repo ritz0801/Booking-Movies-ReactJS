@@ -44,7 +44,7 @@ const FilmItem = props => {
             }}
           />
         )}
-        <div className="play-trailer" onClick={goToDetailFilm}>
+        <div className="play-trailer">
           <div className="btn-play" onClick={handleOpen}>
             <Play className="icon-play" />
           </div>
