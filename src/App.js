@@ -34,7 +34,7 @@ function App(props) {
           <main className="main">
             <Switch>
               <Route path="/Booking-Movies-ReactJS" exact component={HomeLayout} />
-              <Route path="/phim/:bidanh" exact component={FilmDetail} />
+              <Route path="/Booking-Movies-ReactJS/phim/:bidanh" exact component={FilmDetail} />
             </Switch>
           </main>
           <Dialog />
