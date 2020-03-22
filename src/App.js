@@ -29,7 +29,7 @@ function App(props) {
           path="/checkout/:maLichChieu"
           component={CheckoutLayout}
         />
-        <Route path="/">
+        <Route path="/ritz0801">
           <Route path="/" component={Header} />
           <main className="main">
             <Switch>
