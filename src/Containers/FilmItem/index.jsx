@@ -21,10 +21,10 @@ const FilmItem = props => {
   };
 
   const goToBuyTicket = () => {
-    props.history.push(`/phim/${props.film.maPhim}-${props.film.biDanh}`);
+    props.history.push(`/Booking-Movies-ReactJS/phim/${props.film.maPhim}-${props.film.biDanh}`);
   };
   const goToDetailFilm = () => {
-    props.history.push(`/phim/${props.film.maPhim}-${props.film.biDanh}`);
+    props.history.push(`/Booking-Movies-ReactJS/phim/${props.film.maPhim}-${props.film.biDanh}`);
   };
   return (
     <div className="film-item_container">

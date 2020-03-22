@@ -18,7 +18,7 @@ const CarouselItem = ({ item, ...props }) => {
   return (
     <React.Fragment>
       <div className="carousel-item" {...props}>
-        <Link to={`/phim/${item.maPhim}-${item.biDanh}`}>
+        <Link to={`/Booking-Movies-ReactJS/phim/${item.maPhim}-${item.biDanh}`}>
           <img
             src={dataImg[item.biDanh]}
             alt="hinh anh"

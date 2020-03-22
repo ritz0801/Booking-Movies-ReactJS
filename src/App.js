@@ -26,11 +26,11 @@ function App(props) {
     <div className="App">
       <Switch>
         <CheckoutAuth
-          path="/checkout/:maLichChieu"
+          path="/checkout/:maLichChieu" exact
           component={CheckoutLayout}
         />
         <Route path="/Booking-Movies-ReactJS">
-          <Route path="/Booking-Movies-ReactJS" component={Header} />
+          <Route path="/Booking-Movies-ReactJS" exact component={Header} />
           <main className="main">
             <Switch>
               <Route path="/Booking-Movies-ReactJS" exact component={HomeLayout} />
