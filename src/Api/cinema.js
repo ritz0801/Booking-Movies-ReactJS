@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://movie0706.cybersoft.edu.vn/api/QuanLyRap/'
+    baseURL: 'http://movie0706.cybersoft.edu.vn/api/QuanLyRap/'
 });
 export default api;
