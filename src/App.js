@@ -29,11 +29,11 @@ function App(props) {
           path="/checkout/:maLichChieu"
           component={CheckoutLayout}
         />
-        <Route path="/ritz0801">
-          <Route path="/" component={Header} />
+        <Route path="/Booking-Movies-ReactJS">
+          <Route path="/Booking-Movies-ReactJS" component={Header} />
           <main className="main">
             <Switch>
-              <Route path="/" exact component={HomeLayout} />
+              <Route path="/Booking-Movies-ReactJS" exact component={HomeLayout} />
               <Route path="/phim/:bidanh" component={FilmDetail} />
             </Switch>
           </main>
