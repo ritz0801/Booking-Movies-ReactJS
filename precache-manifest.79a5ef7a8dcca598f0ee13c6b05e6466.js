@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da87370ccc295d0911c6d03e7104252b",
+    "revision": "bff713e649d6a41b301eae2e07edfe85",
     "url": "/Booking-Movies-ReactJS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Booking-Movies-ReactJS/static/css/2.1e4af1c3.chunk.css"
   },
   {
-    "revision": "4b7d547714a9c821829c",
+    "revision": "c81501d7755ae3135a71",
     "url": "/Booking-Movies-ReactJS/static/css/main.6af9f30a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Booking-Movies-ReactJS/static/js/2.4a42c618.chunk.js"
   },
   {
-    "revision": "4b7d547714a9c821829c",
-    "url": "/Booking-Movies-ReactJS/static/js/main.eb379829.chunk.js"
+    "revision": "c81501d7755ae3135a71",
+    "url": "/Booking-Movies-ReactJS/static/js/main.e7e86690.chunk.js"
   },
   {
     "revision": "5802c90e62fd284e05ff",
