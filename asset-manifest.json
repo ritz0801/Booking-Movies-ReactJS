@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Booking-Movies-ReactJS/static/css/main.6af9f30a.chunk.css",
-    "main.js": "/Booking-Movies-ReactJS/static/js/main.fe0d5513.chunk.js",
-    "main.js.map": "/Booking-Movies-ReactJS/static/js/main.fe0d5513.chunk.js.map",
+    "main.js": "/Booking-Movies-ReactJS/static/js/main.1792d119.chunk.js",
+    "main.js.map": "/Booking-Movies-ReactJS/static/js/main.1792d119.chunk.js.map",
     "runtime-main.js": "/Booking-Movies-ReactJS/static/js/runtime-main.1a8eee83.js",
     "runtime-main.js.map": "/Booking-Movies-ReactJS/static/js/runtime-main.1a8eee83.js.map",
     "static/css/2.1e4af1c3.chunk.css": "/Booking-Movies-ReactJS/static/css/2.1e4af1c3.chunk.css",
     "static/js/2.4a42c618.chunk.js": "/Booking-Movies-ReactJS/static/js/2.4a42c618.chunk.js",
     "static/js/2.4a42c618.chunk.js.map": "/Booking-Movies-ReactJS/static/js/2.4a42c618.chunk.js.map",
     "index.html": "/Booking-Movies-ReactJS/index.html",
-    "precache-manifest.30ef935520849db857f2820b6b0e68bf.js": "/Booking-Movies-ReactJS/precache-manifest.30ef935520849db857f2820b6b0e68bf.js",
+    "precache-manifest.14256d383710d0db3cc43089fe391358.js": "/Booking-Movies-ReactJS/precache-manifest.14256d383710d0db3cc43089fe391358.js",
     "service-worker.js": "/Booking-Movies-ReactJS/service-worker.js",
     "static/css/2.1e4af1c3.chunk.css.map": "/Booking-Movies-ReactJS/static/css/2.1e4af1c3.chunk.css.map",
     "static/css/main.6af9f30a.chunk.css.map": "/Booking-Movies-ReactJS/static/css/main.6af9f30a.chunk.css.map",
@@ -87,6 +87,6 @@
     "static/css/2.1e4af1c3.chunk.css",
     "static/js/2.4a42c618.chunk.js",
     "static/css/main.6af9f30a.chunk.css",
-    "static/js/main.fe0d5513.chunk.js"
+    "static/js/main.1792d119.chunk.js"
   ]
 }
