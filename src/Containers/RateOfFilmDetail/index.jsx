@@ -26,7 +26,7 @@ const RateOfFilmDetail = () => {
               <div className="info-reviewer">
                 <img src={userDefault} alt="..." />
                 <div className="info-reviewer-name">
-                  <div>Trần Thái Nhân</div>
+                  <div>Võ Anh Dũng</div>
                   <p className="info-reviewer-time">20 phút trước</p>
                 </div>
               </div>
@@ -48,7 +48,7 @@ const RateOfFilmDetail = () => {
               <div className="info-reviewer">
                 <img src={userDefault} alt="..." />
                 <div className="info-reviewer-name">
-                  <div>Võ Anh Dũng</div>
+                  <div>Trần Thái Nhân</div>
                   <p className="info-reviewer-time">20 phút trước</p>
                 </div>
               </div>
